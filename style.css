@@ -63,3 +63,86 @@ body{
     justify-content: center;
 
 }
+.nossasFotos__Grade{
+    margin: 0%;
+    padding: 2%;
+  
+}
+
+.foto__Sessao1{
+    margin: 2%;
+    padding: 2%;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+#foto__Grade1{
+    width: 250px;
+    height: 250px;
+    border-radius: 5%;
+}
+#foto__Grade2{
+    width: 250px;
+    height: 250px;
+    border-radius: 5%;
+}
+#foto__Grade3{
+    width: 250px;
+    height: 250px;
+    border-radius: 5%;
+}
+#foto__Grade4{
+    width: 250px;
+    height: 250px;
+    border-radius: 5%;
+}
+#foto__Grade5{
+    width: 250px;
+    height: 250px;
+    border-radius: 5%;
+}
+#foto__Grade6{
+    width: 250px;
+    height: 250px;
+    border-radius: 5%;
+}
+
+.foto__Sessao2 {
+    margin: 2%;
+    padding: 2%;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+#foto__Grade7{
+    width: 250px;
+    height: 250px;
+    border-radius: 5%;
+}
+#foto__Grade8{
+    width: 250px;
+    height: 250px;
+    border-radius: 5%;
+}
+#foto__Grade9{
+    width: 250px;
+    height: 250px;
+    border-radius: 5%;
+}
+#foto__Grade10{
+    width: 250px;
+    height: 250px;
+    border-radius: 5%;
+}
+#foto__Grade11{
+    width: 250px;
+    height: 250px;
+    border-radius: 5%;
+}
+#foto__Grade12{
+    width: 250px;
+    height: 250px;
+    border-radius: 5%;
+}
